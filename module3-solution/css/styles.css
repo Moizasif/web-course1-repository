@@ -1,0 +1,32 @@
+.navigation-clean{
+	background-color:#499ce8;
+}
+.navigation-clean .navbar-brand{
+	font-size: 30px;
+}
+.navigation-clean.navbar-light .navbar-nav .nav-link{
+	color: #000000d6;
+}
+#menu{
+	padding-top: 30px;
+}
+#main-content{
+	padding-top: 30px;
+	padding-left: 30px;
+	padding-right:30px;
+}
+#c1{
+  background-color: #2e768e;
+}
+#c2{
+  background-color: #2e8e4e;
+}
+#c3{
+  background-color: #32c9b8;
+}
+.nav-item{
+	text-align: center;
+}
+.nav-item:hover{
+	color: red;
+}
